@@ -20,7 +20,7 @@ Analyze a complete data set from a recent cancer study of 249 mice which have be
 - Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot
 - Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook
 
-## Results and Data Observations
+## Results and Data Observations (Condensed)
 
 ### Summary Statistics
 ![Screenshot](Screenshots/SumStats.JPG "Screenshot")
