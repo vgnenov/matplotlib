@@ -24,3 +24,5 @@ Analyze a complete data set from a recent cancer study of 249 mice which have be
 
 ![Screenshot](Screenshots/SumStats.JPG "Screenshot")
 
+![Screenshot](Screenshots/BarPlot2.JPG "Screenshot")
+
