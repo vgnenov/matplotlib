@@ -22,7 +22,12 @@ Analyze a complete data set from a recent cancer study of 249 mice which have be
 
 ## Results and Data Observations
 
+### Summary Statistics
 ![Screenshot](Screenshots/SumStats.JPG "Screenshot")
 
+### Drug Treatments
 ![Screenshot](Screenshots/BarPlot2.JPG "Screenshot")
+
+### Distribution of Gender in Study
+![Screenshot](Screenshots/Pie1.JPG "Screenshot")
 
