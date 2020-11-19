@@ -22,6 +22,5 @@ Analyze a complete data set from a recent cancer study of 249 mice which have be
 
 ## Results and Data Observations
 
-### Summary Statistics Table
 ![Screenshot](Screenshots/SumStats.JPG "Screenshot")
 
