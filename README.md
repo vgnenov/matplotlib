@@ -34,3 +34,6 @@ Analyze a complete data set from a recent cancer study of 249 mice which have be
 ### Box and Whisker Plot Outliers 
 ![Screenshot](Screenshots/BarWhisker.JPG "Screenshot")
 
+### Correlation Coefficient and Linear Regression Model
+![Screenshot](Screenshots/Reg.JPG "Screenshot")
+
