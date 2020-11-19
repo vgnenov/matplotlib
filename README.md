@@ -31,3 +31,6 @@ Analyze a complete data set from a recent cancer study of 249 mice which have be
 ### Distribution of Gender in Study
 ![Screenshot](Screenshots/Pie1.JPG "Screenshot")
 
+### Box and Whisker Plot Outliers 
+![Screenshot](Screenshots/BarWhisker.JPG "Screenshot")
+
